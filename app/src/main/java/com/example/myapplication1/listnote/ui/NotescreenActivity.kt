@@ -19,6 +19,7 @@ import android.view.LayoutInflater
         super.onCreate(savedInstanceState)
         binding = LayotNoteScreenBinding.inflate(layoutInflater)
         setContentView(R.layout.layot_note_screen)
+
     }
 
      class TodoListActivity : Fragment() {
